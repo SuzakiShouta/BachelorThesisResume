@@ -1,0 +1,49 @@
+This is pBibTeX, Version 0.99d-j0.33 (utf8.euc) (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: abstract_utf8.aux
+The style file: junsrt.bst
+Database file #1: reference.bib
+Warning--can't use both volume and number fields in iwa
+You've used 3 entries,
+            2270 wiz_defined-function locations,
+            559 strings with 4531 characters,
+and the built_in function-call counts, 1337 in all, are:
+= -- 120
+> -- 21
+< -- 5
++ -- 9
+- -- 6
+* -- 70
+:= -- 149
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 84
+empty$ -- 132
+format.name$ -- 12
+if$ -- 338
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 18
+num.names$ -- 3
+pop$ -- 25
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 76
+stack$ -- 0
+substring$ -- 112
+swap$ -- 36
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 12
+width$ -- 4
+write$ -- 37
+is.kanji.str$ -- 36
+(There was 1 warning)
