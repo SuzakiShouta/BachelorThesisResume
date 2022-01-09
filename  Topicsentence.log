@@ -1,9 +1,9 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2022.1.3)  10 JAN 2022 00:38
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2022.1.3)  8 JAN 2022 21:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/Users/k18054kk/github/BachelorThesisResume/abstract_utf8
-(/Users/k18054kk/github/BachelorThesisResume/abstract_utf8.tex
+**"/Users/k18054kk/github/BachelorThesisResume/ Topicsentence"
+(/Users/k18054kk/github/BachelorThesisResume/ Topicsentence.tex
 pLaTeX2e <2021-11-15> (based on LaTeX2e <2021-11-15> patch level 1)
 L3 programming layer <2021-11-22> (/usr/local/texlive/2021/texmf-dist/tex/platex/base/jarticle.cls
 Document Class: jarticle 2020/09/30 v1.8f Standard pLaTeX class
@@ -156,8 +156,9 @@ File: l3backend-dvips.def 2021-12-14 L3 backend support: dvips
 \g__pdf_backend_annotation_int=\count280
 \g__pdf_backend_link_int=\count281
 \g__pdf_backend_link_sf_int=\count282
-) (./abstract_utf8.aux)
-\openout1 = `abstract_utf8.aux'.
+)
+No file " Topicsentence".aux.
+\openout1 = `" Topicsentence.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -189,24 +190,23 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 64.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 64.
-File: Lavlus.png Graphic file (type bmp)
-<Lavlus.png>
- [1
+[1
 
 
-]
-File: myApp.png Graphic file (type bmp)
-<myApp.png>
- [2] [3
+] [2] [3
 
-] (./abstract_utf8.aux) ) 
+] (./ Topicsentence.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2038 strings out of 478816
- 32408 string characters out of 5860375
- 350899 words of memory out of 5000000
- 20403 multiletter control sequences out of 15000+600000
+ 2017 strings out of 478816
+ 32136 string characters out of 5860375
+ 353377 words of memory out of 5000000
+ 20389 multiletter control sequences out of 15000+600000
  410200 words of font info for 55 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 55i,9n,62p,300b,301s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,9n,62p,318b,301s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on abstract_utf8.dvi (3 pages, 22364 bytes).
+Output written on " Topicsentence.dvi" (3 pages, 18716 bytes).
