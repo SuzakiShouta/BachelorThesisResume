@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2022.1.3)  13 JAN 2022 17:18
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2022.1.3)  13 JAN 2022 19:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -197,16 +197,14 @@ File: ref_1_large.png Graphic file (type bmp)
 ]
 File: myApp_s.pdf Graphic file (type pdf)
 <myApp_s.pdf>
- [2] [3
-
-] (./abstract_utf8.aux) ) 
+ [2] (./abstract_utf8.aux) ) 
 Here is how much of TeX's memory you used:
  2040 strings out of 478816
  32460 string characters out of 5860375
- 352085 words of memory out of 5000000
+ 351925 words of memory out of 5000000
  20404 multiletter control sequences out of 15000+600000
  410200 words of font info for 55 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 55i,9n,62p,303b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,9n,62p,302b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on abstract_utf8.dvi (3 pages, 19596 bytes).
+Output written on abstract_utf8.dvi (2 pages, 18968 bytes).
